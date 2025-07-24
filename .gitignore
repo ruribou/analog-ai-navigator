@@ -1,0 +1,23 @@
+# Node.js/Next.js
+frontend/node_modules
+frontend/.next
+frontend/out
+frontend/npm-debug.log
+
+# Python/FastAPI
+backend/venv
+backend/__pycache__/
+backend/*.pyc
+backend/*.pyo
+backend/*.pyd
+backend/.env
+backend/*.db
+
+# 共通
+.DS_Store
+.env
+*.log
+
+# エディタ
+.idea/
+.vscode/ 
